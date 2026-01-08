@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Student Report");
+int score;
+string name;
+
+Console.WriteLine("Student Name:");
